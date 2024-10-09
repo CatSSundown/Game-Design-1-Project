@@ -30,6 +30,10 @@
 		{
 			"Name": "AppleMoviePlayer",
 			"Enabled": false
+		},
+		{
+			"Name": "USDImporter",
+			"Enabled": true
 		}
 	]
 }
